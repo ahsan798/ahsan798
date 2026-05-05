@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi, I’m Ahsan 👋<br>I'm a Full Stack Developer experienced in React, Next.js, TypeScript, and Node.js, with experience in deployment workflows. I enjoy creating clean, responsive UIs and working with APIs. I have worked on real-world projects that are currently in production.
+Hi, I’m Ahsan 👋<br>I'm a Frontend / MERN Stack Developer.
 
 
 ## 🌐 Socials:
@@ -12,4 +11,4 @@ Hi, I’m Ahsan 👋<br>I'm a Full Stack Developer experienced in React, Next.js
 
 ![Streak](https://streak-stats.demolab.com?user=ahsan798)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsan798&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsan798&theme=github-compact&days=550)
