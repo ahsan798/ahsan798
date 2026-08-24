@@ -1,4 +1,4 @@
-Hi 👋<br><br>I’m Ahsan, a Frontend Engineer experienced in React and Next.js, with full-stack experience across MERN and PERN stacks.<br><br>I build web apps, SaaS platforms, and dashboards, including AI-powered features using LLM APIs. I love solving problems: fixing bugs, optimizing performance, and shipping new features.<br><br>Check out my Portfolio below:
+Hi 👋<br><br>I’m Ahsan, a Frontend Engineer experienced in React and Next.js, with full-stack experience across MERN and PERN stacks.<br><br>I build web apps, SaaS platforms, and dashboards, including AI-powered features using LLM APIs. I love solving problems: fixing bugs, optimizing performance, and shipping new features.<br><br>Check out my Portfolio below.
 
 
 ## 🌐 Socials:
