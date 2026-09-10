@@ -1,4 +1,4 @@
-Hi 👋<br><br>I've built scalable applications with React and Next.js over the past 3 years, shipping AI-powered features using LLM APIs. My experience covers the entire MERN/PERN stack, from database schema design to deployment on Vercel and VPS with GitHub Actions CI/CD.<br><br>I enjoy solving complex problems, debugging issues, improving performance, and delivering reliable features from idea to production.<br><br>Check out my Portfolio below.
+Hi 👋<br><br>Over the past 3 years, I've built scalable applications with React and Next.js, shipping AI-powered features using LLM APIs. My experience spans the full MERN/PERN stack, from database schema design to deployment on Vercel and VPS, with CI/CD pipelines via GitHub Actions.<br><br>I enjoy solving complex problems, debugging tricky issues, and improving performance, turning ideas into reliable, production-ready features.<br><br>Check out my Portfolio below.
 
 
 ## 🌐 Socials:
